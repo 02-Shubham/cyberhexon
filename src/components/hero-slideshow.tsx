@@ -55,7 +55,7 @@ export function HeroSlideshow() {
                     {slide.description}
                   </p>
                   <div className="flex justify-center gap-4 animate-fade-up">
-                    <Link to="/solutions"><Button size="lg" className="bg-blue-600 hover:bg-blue-700">
+                    <Link to="/solution"><Button size="lg" className="bg-blue-600 hover:bg-blue-700">
                       Get Started</Button>
                     </Link>
                     
